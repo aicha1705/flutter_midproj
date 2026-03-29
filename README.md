@@ -1,4 +1,4 @@
-# lezzet_app
+# lezzetapp
 
 
 ## Description
