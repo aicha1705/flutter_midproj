@@ -17,7 +17,6 @@
 ## Technologies Used
 - Flutter
 - Dart
-- c++
 ---
 
 ## 📂 Project Structure
